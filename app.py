@@ -1,8 +1,5 @@
 # app.py
-# C:\Users\ipasc\Documents\2023\data scientest\datascientest 2023-2024\
-    # f-sprint3 - Linux - Github - Pytest - Jenkins\
-        # 339 Jenkins\
-            # f-sprint3-339#4 Compléments-_Jenkins.docx
+
             
 ##########################################################################
 ## Imports
